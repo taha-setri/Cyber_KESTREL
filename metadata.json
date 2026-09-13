@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Autonomous Cyber-Defense Command Center",
+  "description": "Real-time autonomous cyber-defense operations center with live server bridge, full-stack REST \u0026 SSE telemetry ingestion, mathematical anomaly detection, and wire-speed automated mitigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
